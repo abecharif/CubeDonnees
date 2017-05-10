@@ -1,0 +1,9 @@
+produit;Categories;SKU;Parent SKU;Price;Color;Description;fabriqué en;taille;GENDER
+Soflyy T-Shirt;T-SHIRT;999-X;;10;green;This shirt is awesome.;laine;S;M
+Soflyy T-Shirt;T-SHIRT;999-X;;10;yellow;This shirt is awesome.;laine;XL;F
+Soflyy T-Shirt (blue);T-SHIRT;999-B;999-X;15;blue;;coton;M;M
+Soflyy T-Shirt (red);T-SHIRT;999-C;999-X;15;red;;laine;XS;F
+Gilet à capuche uni;;777-X;;30;green;This mug is awesome.;coton;L;M
+Sweatshirt à col roulottéi;;777-O;777-X;9;orange;;coton;XS;M
+Sweatshirt brodé devant;;777-Y;777-X;9;yellow;;laine;M;F
+Pull 100% laine mérinos premium;;;;9;;;coton;M;M
